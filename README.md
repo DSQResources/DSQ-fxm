@@ -25,6 +25,12 @@ Will you provide your results as semantically interoperable linked data?
   * If you have any ideas, please go to [issues].
   * You can provide any extra resources in the `/resources` directory via [pull request].
 
+## Please contribute!
+
+  * [Want to propose a new resource?](https://github.com/DSQResources/DSQ-fxm/issues/new)
+  * [Want to report an issue / give a feedback?](https://github.com/DSQResources/DSQ-fxm/issues/new)
+  * [We also welcome pull requests!](https://github.com/DSQResources/DSQ-fxm/pulls)
+
 ----
 
 *Do not edit this README file by hand, it is automatically generated*
